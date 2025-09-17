@@ -1,5 +1,5 @@
 import "./globals.css";
-import '@fontsource-variable/urbanist';
+import '@fontsource-variable/host-grotesk';
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {

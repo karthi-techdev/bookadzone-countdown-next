@@ -9,7 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@fontsource-variable/urbanist": "^5.2.6",
+    "@fontsource-variable/host-grotesk": "^5.2.8",
     "next": "15.5.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
