@@ -56,7 +56,7 @@ const Home = () => {
         
         {/* Description */}
         <p className="text-xs text-white max-w-md mx-auto mb-12 leading-relaxed">
-          We're working hard to bring you an innovative platform for booking billboard advertising spaces. 
+          Were working hard to bring you an innovative platform for booking billboard advertising spaces. 
           Stay tuned for our launch!
         </p>
 
